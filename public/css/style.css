@@ -1,6 +1,6 @@
 body {
   width: 800px;
-  margin: 0 auto;
+  margin: 86px auto;
   font-family: 'Open Sans', sans-serif;
 }
 .theContainer {
@@ -41,8 +41,9 @@ body {
   background-color: transparent;
   border:2px solid #ddd;
   padding:10px 30px;
-  width: 100%;
-  min-width: 350px;
+  width: 50%;
+  margin-left: 25%;
+  /* min-width: 350px; */
   -webkit-transition: all 0.1s ease-in-out;
   -moz-transition: all 0.1s ease-in-out;
   -ms-transition: all 0.1s ease-in-out;
