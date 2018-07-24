@@ -2,6 +2,10 @@ body {
   width: 800px;
   margin: 86px auto;
   font-family: 'Open Sans', sans-serif;
+  background-image: "/images/354233-weather-channel-wallpaper.jpg";
+  background-repeat: no-repeat;
+  background-position: cover;
+    background-attachment: cover;
 }
 .theContainer {
   width: 600px;
